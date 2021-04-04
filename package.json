@@ -1,0 +1,9 @@
+{
+	"name": "node-rest-ws",
+	"main": "server.js",
+	"dependencies": {
+		"express": "latest",
+		"body-parser": "~1.8.1",
+		"mongoose": "latest"
+	}
+}
